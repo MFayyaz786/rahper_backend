@@ -1,0 +1,14 @@
+node_modules
+.env
+public/images/*
+!public/images/defaultprofile.jpg
+!public/images/.gitkeep
+
+public/files/*
+!public/files/.gitkeep
+
+public/videos/*
+!public/videos/.gitkeep
+
+zindigikey.txt
+
